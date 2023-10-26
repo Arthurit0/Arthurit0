@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Atualmente estou trabalhando como Fullstack com Javascript, Nodejs e React, além de algumas databases como OracleDB e MongoDB.
+- 🔭 Atualmente estou trabalhando como desenvolvedor fullstack com Javascript, Nodejs e React, além de algumas databases como OracleDB e MongoDB.
 - 🌱 Estou estudando Python, Blockchain com Hyperledger e Docker, para meu projeto de TCC.
-
