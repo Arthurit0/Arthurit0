@@ -6,6 +6,4 @@
 </div>
 <br/>
 
-- 💻 Currently working with Javascript, Nodejs, and React, as well as some databases like OracleDB and MongoDB.
-- 🌱 At the moment, in addition to my UDESC courses, I am studying Python, Blockchain with Hyperledger, and Docker for my undergraduate thesis project.
-- 🔎 Curious about various technologies such as AI, Machine Learning, Data Science, Big Data, among others...
+#### 💻 Currently working with Javascript, Nodejs, and React, as well as some databases like OracleDB and MongoDB.
